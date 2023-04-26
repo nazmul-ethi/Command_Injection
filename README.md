@@ -49,8 +49,8 @@ To get an overview of commix available options, switches and/or basic ideas on h
 ## Useful commands
 
                     - Purpose of command 	    Linux 	      Windows
-                    - Name of current user 	  whoami 	      whoami
-                    - Operating system 	      uname -a 	    ver
-                    - Network configuration   ifconfig 	    ipconfig /all
-                    - Network connections 	  netstat -an 	netstat -an
-                    - Running processes 	    ps -ef 	      tasklist 
+                    - Name of current user 	    whoami 	      whoami
+                    - Operating system 	     uname -a 	    ver
+                    - Network configuration     ifconfig 	    ipconfig /all
+                    - Network connections 	    netstat -an 	netstat -an
+                    - Running processes 	   ps -ef 	      tasklist 
