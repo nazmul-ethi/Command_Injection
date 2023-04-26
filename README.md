@@ -45,3 +45,12 @@ To get an overview of commix available options, switches and/or basic ideas on h
 
 * [Greek](https://github.com/commixproject/commix/blob/master/doc/translations/README-gr-GR.md)
 * [Indonesian](https://github.com/commixproject/commix/blob/master/doc/translations/README-idn-IDN.md)
+
+
+
+  Purpose of command 	    Linux 	      Windows
+  Name of current user 	  whoami 	      whoami
+  Operating system 	      uname -a 	    ver
+  Network configuration   ifconfig 	    ipconfig /all
+  Network connections 	  netstat -an 	netstat -an
+  Running processes 	    ps -ef 	      tasklist 
