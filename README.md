@@ -52,5 +52,5 @@ To get an overview of commix available options, switches and/or basic ideas on h
                     - Name of current user 	    whoami 	      whoami
                     - Operating system 	    uname -a 	      ver
                     - Network configuration     ifconfig 	      ipconfig /all
-                    - Network connections 	    netstat -an netstat -an
+                    - Network connections 	    netstat -an     netstat -an
                     - Running processes 	    ps -ef 	      tasklist 
